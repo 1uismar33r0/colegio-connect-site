@@ -5,7 +5,7 @@ Static project web page for the Colegio Connect capstone (UPRM, Fall 2026). No b
 ## Contents
 
 - `index.html` — the page
-- `screenshots/` — main branch (f0c4efe) captured Nov 11, 2026 against an isolated local stack with synthetic demo data
+- `screenshots/` — main branch (f0c4efe) captured Nov 10, 2026 (Puerto Rico time) against an isolated local stack with synthetic demo data
 - `wireframes/` — four-role wireframes from `docs/Wireframes` on the `Issue-13-Wireframes` branch
 - `docs/` — approved proposal; add `colegio-connect-progress-report.pdf` before publishing
 
